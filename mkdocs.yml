@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: 규경's Docs
+pages:
+	- 홈: index.md
+	- 사용법: README.md
+
+theme: readthedocs
