@@ -3,6 +3,7 @@
 소개
 ---
 title:  {{ page.title }}
+
 excerpt: "github.io 블로그 첫 글 작성해봅니다."
 
 #### categories:
