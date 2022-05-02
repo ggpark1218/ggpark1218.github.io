@@ -13,6 +13,5 @@ title:  {{ page.title }}
 #### github.io:
   - [ggpark1218.github.io](https://github.com/ggpark1218/ggpark1218.github.io.git)
 
-last_modified_at: {{ page.last_modified_at }} 입니다. 
 
-
+last_modified_at: {{ page.last_modified_at }} 
