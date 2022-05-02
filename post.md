@@ -5,7 +5,7 @@
 title:  {{ page.title }}
 
 
-excerpt: "github.io 블로그 첫 글 작성해봅니다."
+**excerpt: "github.io 블로그 첫 글 작성해봅니다."**
 
 #### my team project:
   - [OSS_teamproject](https://github.com/Opensource-Teamproject/OSS_teamproject.git)
@@ -13,7 +13,6 @@ excerpt: "github.io 블로그 첫 글 작성해봅니다."
 #### github.io:
   - [ggpark1218.github.io](https://github.com/ggpark1218/ggpark1218.github.io.git)
 
-last_modified_at:  
-{{ page.last_modified_at }}
+last_modified_at: {{ page.last_modified_at }} 입니다. 
 
 
