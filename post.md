@@ -10,7 +10,7 @@ excerpt: "github.io 블로그 첫 글 작성해봅니다."
 
 #### tags:
   - **Blog**
-last_modified_at: _{{ page.last_modified_at }}_
+last_modified_at: {{ page.last_modified_at }}
 ---
 
 
